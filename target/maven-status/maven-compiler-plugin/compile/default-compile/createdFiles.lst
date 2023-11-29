@@ -1,0 +1,8 @@
+com/aplikasidealermobil/resources/JakartaEE10Resource.class
+servlet/CarServlet.class
+servlet/DB.class
+servlet/CustomerServlet.class
+servlet/JasperReportServlet.class
+com/aplikasidealermobil/JakartaRestConfiguration.class
+servlet/TransactionServlet.class
+servlet/CarDealerReportServlet.class
